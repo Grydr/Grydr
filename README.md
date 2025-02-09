@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FrotzYs
+- 👋 Hi, I’m @Grydr
 - 👀 I’m interested in Software Engineer & Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
