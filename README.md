@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Grydr
-- 👀 I’m interested in Software Engineer & Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Software Engineer & Robotics
+- 🌱 I’m currently learning C, C++, Python
 
 <!---
 FrotzYs/FrotzYs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
