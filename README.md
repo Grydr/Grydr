@@ -1,8 +1,7 @@
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <h3 title="hehehe"> Hi 👋, I'm Jalu</h3>
 
 An ***IT Enthusiast*** 🚀.
- 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **About Me!**
 
